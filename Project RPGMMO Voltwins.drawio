@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T16:15:57.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="VF0pi6k4Z02sb_s2Toie" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T16:18:02.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="bI5P0wdRBfjZa5TGAQXX" version="22.0.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-96" value="Project Voltwins" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=13;fontStyle=1;fontColor=#FFFFFF;strokeColor=#009999;fillStyle=auto;fillColor=#009999;" vertex="1" parent="1">
-          <mxGeometry x="325" y="235" width="150" height="80" as="geometry" />
+          <mxGeometry x="325" y="240" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-98" value="Storyline - Cốt truyện" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#009999;strokeColor=#0e8088;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="330" y="30" width="140" height="40" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-102" value="Selector&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Đối tượng)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#009999;fontColor=#009999;strokeWidth=2;fontStyle=1;fillStyle=hatch;" vertex="1" parent="1">
-          <mxGeometry x="340" y="365" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;fontColor=#009999;" edge="1" parent="1" source="eMdHMRh1nKxnSkWNnK9Y-110" target="eMdHMRh1nKxnSkWNnK9Y-114">
           <mxGeometry relative="1" as="geometry" />
@@ -72,10 +72,10 @@
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-137" value="Vitality of Life&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 13px;&quot;&gt;(Nguồn gốc)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#009999;fontColor=#009999;strokeWidth=2;fontStyle=1;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="110" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eMdHMRh1nKxnSkWNnK9Y-139" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#009999;fillColor=default;strokeWidth=2;fontStyle=1;fillStyle=hatch;" vertex="1" parent="1">
+        <mxCell id="eMdHMRh1nKxnSkWNnK9Y-139" value="VitalS-Card" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#009999;fillColor=default;strokeWidth=2;fontStyle=1;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eMdHMRh1nKxnSkWNnK9Y-141" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#009999;fillColor=default;shadow=0;strokeWidth=2;fontStyle=1;fillStyle=hatch;" vertex="1" parent="1">
+        <mxCell id="eMdHMRh1nKxnSkWNnK9Y-141" value="AlterS-Card" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#009999;fillColor=default;shadow=0;strokeWidth=2;fontStyle=1;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="560" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
