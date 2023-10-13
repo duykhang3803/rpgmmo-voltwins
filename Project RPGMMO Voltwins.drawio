@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T13:04:28.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="QP53cLvUcYpDKaeFUzYb" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T14:31:48.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="uD3HLeq2GWE0UoLxUFul" version="22.0.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="835" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-96" value="Project Voltwins" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=13;fontStyle=1;fontColor=#FFFFFF;strokeColor=#009999;fillStyle=auto;fillColor=#009999;" parent="1" vertex="1">
-          <mxGeometry x="325" y="240" width="150" height="80" as="geometry" />
+          <mxGeometry x="325" y="230" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;fontColor=#009999;" parent="1" source="eMdHMRh1nKxnSkWNnK9Y-102" target="eMdHMRh1nKxnSkWNnK9Y-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-137" value="Vitality of Life&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 13px;&quot;&gt;(Thiên Chúc)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#009999;fontColor=#009999;strokeWidth=2;fontStyle=1;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="333.75" y="110" width="132.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M92W5lv8mYPW5TozNTNy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMdHMRh1nKxnSkWNnK9Y-139" target="eMdHMRh1nKxnSkWNnK9Y-141">
+        <mxCell id="M92W5lv8mYPW5TozNTNy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eMdHMRh1nKxnSkWNnK9Y-139" target="eMdHMRh1nKxnSkWNnK9Y-141" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="50" />
@@ -74,7 +74,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M92W5lv8mYPW5TozNTNy-3" value="Đối lập nhau" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M92W5lv8mYPW5TozNTNy-2">
+        <mxCell id="M92W5lv8mYPW5TozNTNy-3" value="Đối lập nhau" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="M92W5lv8mYPW5TozNTNy-2" vertex="1" connectable="0">
           <mxGeometry x="0.0892" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -85,7 +85,7 @@
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-141" value="Nega Alter-Card&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Thẻ Oán Linh)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#009999;fillColor=default;shadow=0;strokeWidth=2;fontStyle=1;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="560" y="115" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M92W5lv8mYPW5TozNTNy-4" value="&lt;h1&gt;Genesis Illusion&lt;/h1&gt;&lt;p&gt;Genesis Illusion có thể được dùng để chỉ một loại ảo ảnh tạo ra bởi sự khác biệt giữa nhận thức và thực tế. Ví dụ, một người có thể nhìn thấy một hình ảnh không tồn tại trong không gian hoặc thời gian, hoặc một người có thể tin rằng họ là người khác hoặc có khả năng phi thường.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="M92W5lv8mYPW5TozNTNy-4" value="&lt;h1&gt;Genesis Illusion&lt;/h1&gt;&lt;p&gt;Genesis Illusion có thể được dùng để chỉ một loại ảo ảnh tạo ra bởi sự khác biệt giữa nhận thức và thực tế. Ví dụ, một người có thể nhìn thấy một hình ảnh không tồn tại trong không gian hoặc thời gian, hoặc một người có thể tin rằng họ là người khác hoặc có khả năng phi thường.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="360" width="205" height="180" as="geometry" />
         </mxCell>
       </root>
