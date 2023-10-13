@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T12:35:52.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="QeyNqUrf8Bz9M_-k_an9" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T12:37:15.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="oCnrq9E7BnFWIe3hQSYA" version="22.0.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,7 +33,7 @@
             <mxPoint x="240" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eMdHMRh1nKxnSkWNnK9Y-114" value="&lt;b&gt;Prime Genesis&lt;/b&gt;&lt;br&gt;( Nhóm Sáng Thế)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#009999;fontColor=#009999;strokeWidth=2;fontStyle=0;fillStyle=hatch;" parent="1" vertex="1">
+        <mxCell id="eMdHMRh1nKxnSkWNnK9Y-114" value="&lt;b&gt;Prime Genesis&lt;/b&gt;&lt;br&gt;( Sáng Thế)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#009999;fontColor=#009999;strokeWidth=2;fontStyle=0;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="160" y="615" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eMdHMRh1nKxnSkWNnK9Y-115" edge="1">
