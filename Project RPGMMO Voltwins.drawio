@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T12:37:15.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="oCnrq9E7BnFWIe3hQSYA" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T13:04:28.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="QP53cLvUcYpDKaeFUzYb" version="22.0.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="835" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
           <mxGeometry x="560" y="115" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M92W5lv8mYPW5TozNTNy-4" value="&lt;h1&gt;Genesis Illusion&lt;/h1&gt;&lt;p&gt;Genesis Illusion có thể được dùng để chỉ một loại ảo ảnh tạo ra bởi sự khác biệt giữa nhận thức và thực tế. Ví dụ, một người có thể nhìn thấy một hình ảnh không tồn tại trong không gian hoặc thời gian, hoặc một người có thể tin rằng họ là người khác hoặc có khả năng phi thường.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="360" width="205" height="120" as="geometry" />
+          <mxGeometry x="590" y="360" width="205" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
