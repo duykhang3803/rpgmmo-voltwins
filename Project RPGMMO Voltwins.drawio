@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T02:34:49.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="jeN9bUVP5nN7vXliqmx4" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T09:16:38.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="YIh9PB7Z7gvuTplmfYcx" version="22.0.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1179" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1700" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,6 +136,9 @@
         </mxCell>
         <mxCell id="Ty6HO3TgU7SjN0dHBwse-7" value="Selector" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontSize=13;strokeColor=#009999;fontColor=#009999;rounded=1;strokeWidth=2;fontStyle=1;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="490" y="370" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ty6HO3TgU7SjN0dHBwse-9" value="&lt;h1&gt;&lt;div style=&quot;font-size: medium; font-weight: 400;&quot; tabindex=&quot;0&quot; class=&quot;content&quot;&gt;&lt;div class=&quot;ac-container ac-adaptiveCard&quot;&gt;&lt;div class=&quot;ac-textBlock&quot;&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Virtual Alchemist&lt;/strong&gt;: This class is adept at manipulating the virtual elements and creating new compounds in the virtual lab.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Cybernetic Engineer&lt;/strong&gt;: This class specializes in designing and programming virtual machines and robots to perform various tasks in the virtual world.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Quantum Physicist&lt;/strong&gt;: This class has a deep understanding of quantum mechanics and can harness the power of virtual particles to create powerful attacks and defenses.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Virtual Biologist&lt;/strong&gt;: This class is an expert in the study of virtual life forms and can use their knowledge to heal allies or poison enemies.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Nanotech Specialist&lt;/strong&gt;: This class is skilled in manipulating virtual nanobots to perform various tasks, such as repairing damaged equipment or enhancing allies’ abilities.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-78.75" y="1030" width="545" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
