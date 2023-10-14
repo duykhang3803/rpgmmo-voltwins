@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T00:46:19.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="qkCV5ny4hxBi7HjX3Soc" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T02:22:24.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="zY-TZQ4emMY3pb4q_E-g" version="22.0.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1179" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-102" value="Selector&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Đối tượng)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#009999;fontColor=#009999;strokeWidth=2;fontStyle=1;fillStyle=hatch;" parent="1" vertex="1">
-          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;fontColor=#009999;" parent="1" source="eMdHMRh1nKxnSkWNnK9Y-110" target="eMdHMRh1nKxnSkWNnK9Y-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,21 +76,30 @@
         </mxCell>
         <mxCell id="M92W5lv8mYPW5TozNTNy-3" value="Đối lập nhau" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="M92W5lv8mYPW5TozNTNy-2" vertex="1" connectable="0">
           <mxGeometry x="0.0892" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-24" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty6HO3TgU7SjN0dHBwse-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eMdHMRh1nKxnSkWNnK9Y-139" target="tQVQhtqJo8rCITi1MKfo-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eMdHMRh1nKxnSkWNnK9Y-139" value="Hallow Vital-Card&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Thẻ Thiên Chúc)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#009999;fillColor=default;strokeWidth=2;fontStyle=1;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="100" y="115" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eMdHMRh1nKxnSkWNnK9Y-141" value="Nega Alter-Card&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Thẻ Oán Linh)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#009999;fillColor=default;shadow=0;strokeWidth=2;fontStyle=1;fillStyle=hatch;" parent="1" vertex="1">
+        <mxCell id="Ty6HO3TgU7SjN0dHBwse-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eMdHMRh1nKxnSkWNnK9Y-141" target="tQVQhtqJo8rCITi1MKfo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMdHMRh1nKxnSkWNnK9Y-141" value="Nega Drive-Card&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Thẻ Oán Linh)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#009999;fillColor=default;shadow=0;strokeWidth=2;fontStyle=1;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="560" y="115" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tQVQhtqJo8rCITi1MKfo-1" value="&lt;h1&gt;Thẻ Thiên Chúc&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="75" y="200" width="190" height="120" as="geometry" />
+        <mxCell id="Ty6HO3TgU7SjN0dHBwse-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQVQhtqJo8rCITi1MKfo-1" target="tQVQhtqJo8rCITi1MKfo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tQVQhtqJo8rCITi1MKfo-1" value="&lt;h1&gt;Thẻ Thiên Chúc&lt;/h1&gt;&lt;p&gt;Được cho là kết tinh của quá trình nghiên cứu &quot;Thiên Chúc&quot; của Prime Genesis.&lt;/p&gt;&lt;p&gt;Về lý thuyết, Thiên Chúc là chúc phúc của Thần Linh. Mang đến những sức mạnh chống lại thế lực tà ác.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="75" y="200" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="tQVQhtqJo8rCITi1MKfo-2" value="Phân loại" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#009999;fontColor=#009999;rounded=1;strokeWidth=2;fillStyle=hatch;" parent="1" vertex="1">
-          <mxGeometry x="100" y="350" width="140" height="130" as="geometry">
-            <mxRectangle x="115" y="340" width="100" height="40" as="alternateBounds" />
+          <mxGeometry x="60" y="440" width="140" height="130" as="geometry">
+            <mxRectangle x="60" y="440" width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tQVQhtqJo8rCITi1MKfo-3" value="Thể Vật Lý" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="tQVQhtqJo8rCITi1MKfo-2" vertex="1">
@@ -103,7 +112,7 @@
           <mxGeometry y="100" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tQVQhtqJo8rCITi1MKfo-6" value="Phân loại" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#009999;fontColor=#009999;rounded=1;strokeWidth=2;fillStyle=hatch;" parent="1" vertex="1">
-          <mxGeometry x="555" y="350" width="140" height="130" as="geometry">
+          <mxGeometry x="600" y="440" width="140" height="130" as="geometry">
             <mxRectangle x="115" y="340" width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -119,8 +128,14 @@
         <mxCell id="M92W5lv8mYPW5TozNTNy-4" value="&lt;h1&gt;Genesis Illusion&lt;/h1&gt;&lt;p&gt;Genesis Illusion có thể được dùng để chỉ một loại ảo ảnh tạo ra bởi sự khác biệt giữa nhận thức và thực tế. Ví dụ, một người có thể nhìn thấy một hình ảnh không tồn tại trong không gian hoặc thời gian, hoặc một người có thể tin rằng họ là người khác hoặc có khả năng phi thường.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="910" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="tQVQhtqJo8rCITi1MKfo-10" value="&lt;h1&gt;Thẻ Oán Linh&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="200" width="190" height="120" as="geometry" />
+        <mxCell id="Ty6HO3TgU7SjN0dHBwse-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQVQhtqJo8rCITi1MKfo-10" target="tQVQhtqJo8rCITi1MKfo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tQVQhtqJo8rCITi1MKfo-10" value="&lt;h1&gt;Thẻ Oán Linh&lt;/h1&gt;&lt;p&gt;Tiêu cực, đố kỵ, oán hận... là tất cả những gì khai sinh nên Phantom Sight và &quot;Oán Linh&quot; nhằm biến Thế Giới thành một chiều không gia tràn ngập âm khí.&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="200" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ty6HO3TgU7SjN0dHBwse-7" value="Selector" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontSize=13;strokeColor=#009999;fontColor=#009999;rounded=1;strokeWidth=2;fontStyle=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="20" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
