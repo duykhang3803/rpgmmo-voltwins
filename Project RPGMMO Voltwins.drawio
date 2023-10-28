@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T12:39:34.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="6DeAjfEXM2frNunSLrNA" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T13:18:40.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="U6eyhxLHCnRjaF19sUg7" version="22.0.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2257" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
           <mxGeometry y="100" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tQVQhtqJo8rCITi1MKfo-6" value="Phân loại" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#009999;fontColor=#009999;rounded=1;strokeWidth=2;fillStyle=hatch;" parent="1" vertex="1">
-          <mxGeometry x="600" y="440" width="200" height="130" as="geometry">
+          <mxGeometry x="680" y="410" width="200" height="130" as="geometry">
             <mxRectangle x="115" y="340" width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -126,7 +126,7 @@
           <mxGeometry y="100" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M92W5lv8mYPW5TozNTNy-4" value="&lt;h1&gt;Genesis Illusion&lt;/h1&gt;&lt;p&gt;Genesis Illusion có thể được dùng để chỉ một loại ảo ảnh tạo ra bởi sự khác biệt giữa nhận thức và thực tế. Ví dụ, một người có thể nhìn thấy một hình ảnh không tồn tại trong không gian hoặc thời gian, hoặc một người có thể tin rằng họ là người khác hoặc có khả năng phi thường.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="910" width="140" height="180" as="geometry" />
+          <mxGeometry x="920" y="1030" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Ty6HO3TgU7SjN0dHBwse-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tQVQhtqJo8rCITi1MKfo-10" target="tQVQhtqJo8rCITi1MKfo-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
